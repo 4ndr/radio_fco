@@ -1,6 +1,6 @@
 # Radio Fco Mendes
 
-> A native local radio application built with NativeScript
+> A NativeScript-vue radio player from a local radio
 
 ## Usage
 

@@ -1,6 +1,6 @@
 <template>
     <Page>
-        <ActionBar title="Welcome to NativeScript-Vue!" android:flat="true"/>
+        <ActionBar title="Radio Escola Francisco Mendes" android:flat="true"/>
         <TabView android:tabBackgroundColor="#53ba82"
                  android:tabTextColor="#c4ffdf"
                  android:selectedTabTextColor="#ffffff"
